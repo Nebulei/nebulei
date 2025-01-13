@@ -1,0 +1,19 @@
+[workspace.package]
+version = "0.1.0"
+authors = ["Adrian Blanc <lalo@nebulei.com>"]
+edition = "2021"
+license = "Apache-2.0"
+keywords = ["nebulei", "robotics", "iot", "real-time", "intuition", "environment"]
+categories = ["science::robotics::iot"]
+homepage = "https://nebulei.com"
+repository = "https://github.com/nebulei/nebulei"
+
+[workspace]
+resolver = "2"
+members = [
+  "crates/*",
+  "nebulei",
+]
+
+[workspace.dependencies]
+
