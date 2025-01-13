@@ -26,10 +26,6 @@ The **Real-Time Intuition Library** serves as the "subconscious" of adaptive sys
 - **Modular & Extensible Design:**  
   Easily integrate additional sensors, actuators, or AI/ML models. The library's architecture is designed to be future-proof, allowing for seamless expansion and adaptation across various application domains.
 
-## Getting Started
-
-*For detailed installation and usage instructions, please see our [Documentation](https://github.com/yourusername/nebulei/wiki) and [Quick Start Guide](https://github.com/yourusername/nebulei/blob/main/README.md#quick-start).*
-
 ## Contributing
 
 We welcome contributions! Check out our [Contributing Guidelines](CONTRIBUTING.md) to learn how to get involved.
